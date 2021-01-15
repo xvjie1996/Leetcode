@@ -1,3 +1,6 @@
+//思路，dfs
+//时间omn，最差情况下遍历所有单元格
+//空间omn，visited数组
 class Solution {
     public int movingCount(int m, int n, int k) {
         boolean[][] visited = new boolean[m][n];
