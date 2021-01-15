@@ -1,10 +1,10 @@
 # Leetcode technical route
 
-author:xujie
+**author** : xujie
 
-contact:shuj963044@gmail.com
+**contact** : shuj963044@gmail.com
 
-Aim: Brush questions on Leetcode to join big company. 
+Aim : Brush questions on Leetcode to join big company. 
 
 Please let me know if this helps or my solutions on questions incorrect.
 
