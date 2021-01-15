@@ -1,3 +1,6 @@
+//思路，dfs，比法一省去了visited数组的空间
+//时间o3^k，每个字符有上下左右四个方向，出去来路，去路有3个
+//空间ok，递归深度不超过k
 class Solution {
     public boolean exist(char[][] board, String word) {
         char[] words = word.toCharArray();
